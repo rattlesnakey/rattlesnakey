@@ -7,7 +7,7 @@
 - 🤔 I’m also like guitar and singing
 - 🚀 I use daily:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![C++](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=C++)
+![C++](https://img.shields.io/badge/-C++-3f4441?style=plastic&logo=C++)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 📫 How to reach me: hengyuan_blcu@yeah.net
