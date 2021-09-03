@@ -13,3 +13,4 @@
 - 📫 How to reach me: hengyuan_blcu@yeah.net
 
 ![](https://github-readme-stats.vercel.app/api?username=rattlesnakey&theme=dark)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=rattlesnakey&layout=compact&show_icons=true&theme=outrun)  
