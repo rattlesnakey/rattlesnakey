@@ -12,5 +12,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 📫 How to reach me: hengyuan_blcu@yeah.net
 
-![](https://github-readme-stats.vercel.app/api?username=rattlesnakey&theme=dark)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=rattlesnakey&layout=compact&show_icons=true&theme=outrun)  
+[![rattlesnakey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattlesnakey)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattlesnakey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
