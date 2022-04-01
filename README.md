@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-3f4441?style=plastic&logo=C++)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 📫 How to reach me: hengyuan_blcu@yeah.net
+- 📫 How to reach me: hengyuan_zhang@yeah.net
 - 🔭 My Blog: https://rattlesnakey.github.io/
 
 [![rattlesnakey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattlesnakey)](https://github.com/anuraghazra/github-readme-stats)
