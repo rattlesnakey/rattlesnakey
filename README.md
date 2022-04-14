@@ -1,7 +1,7 @@
 ### Hi I'm Zhang Hengyuan 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rattlesnakey.rattlesnakeyREADME)
 ![GitHub followers](https://img.shields.io/github/followers/rattlesnakey?style=social)
-- 🔭 I’m currently a student of Beijing Language and Culture University
+- 🔭 I’m currently a prospective graduate student of Tsinghua University
 - 🌱 I’m currently learning about Natural Language Processing
 - 👯 I’m curious about any thing that could automatically work by programming
 - 🤔 I’m also like guitar and singing
