@@ -12,6 +12,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 📫 How to reach me: hengyuan_zhang@yeah.net
 - 🔭 My Blog: https://rattlesnakey.github.io/
+- 📖 My 微信公众号:阿源的成长空间
 
 [![rattlesnakey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattlesnakey)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattlesnakey&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
