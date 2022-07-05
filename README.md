@@ -13,6 +13,9 @@
 - 📫 How to reach me: hengyuan_zhang@yeah.net
 - 🔭 My Blog: https://rattlesnakey.github.io/
 - 📖 My 微信公众号:阿源的成长空间
+<a href="https://github.com/LittlefishStudent">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rattlesnakey&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af%22%20width=%22400px%22" />
+</a>
 
 [![rattlesnakey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattlesnakey)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattlesnakey&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
