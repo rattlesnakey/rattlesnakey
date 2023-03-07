@@ -32,10 +32,8 @@
 </a>
 
 - 📫 How to reach me: hengyuan_zhang@yeah.net
-- 🔭 About Me: https://rattlesnakey.github.io
-- 📖 My 微信公众号:阿源的成长空间
+- 📖 My WeChat Official Accounts:阿源的成长空间
 - [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0):你源哥-
-- [![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=740800023&site=qq&menu=yes):740800023
 
 
 
