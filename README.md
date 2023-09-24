@@ -13,7 +13,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rattlesnakey.rattlesnakeyREADME)
 ![GitHub followers](https://img.shields.io/github/followers/rattlesnakey?style=social)
 - 🔭 I’m currently a postgraduate graduate student of Tsinghua University
-- 🌱 I’m currently learning about Natural Language Processing
+- 🌱 I’m currently doing research about Natural Language Processing and its application scenarios
 - 👯 I’m curious about any thing that could automatically work by programming
 - 🤔 I’m also like guitar and singing
 - 🚀 I use daily:
@@ -31,9 +31,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattlesnakey&layout=compact&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
-- 📫 How to reach me: hengyuan_zhang@yeah.net
-- 📖 My WeChat Official Accounts:阿源的成长空间
-- [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0):你源哥-
+- 📫 How to reach me: hengyuan.zhang88@gmail.com
+- 📖 My WeChat Official Accounts:阿源的NLP碎碎念
+- [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0):阿源的NLP碎碎念
 
 
 
