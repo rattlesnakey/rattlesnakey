@@ -10,7 +10,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=rattlesnakey&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af%22%20width=%22400px%22" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rattlesnakey.rattlesnakeyREADME)
 ![GitHub followers](https://img.shields.io/github/followers/rattlesnakey?style=social)
 - 🔭 I’m currently a postgraduate graduate student of Tsinghua University
 - 🌱 I’m currently doing research about Natural Language Processing and its application scenarios
